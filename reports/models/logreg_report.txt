@@ -1,0 +1,20 @@
+Model: LogisticRegression
+Time: 2025-10-21T08:23:42.144940Z
+
+Accuracy: 0.7518
+ROC AUC: 0.5070
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.7518    1.0000    0.8583     15036
+           1     0.0000    0.0000    0.0000      4964
+
+    accuracy                         0.7518     20000
+   macro avg     0.3759    0.5000    0.4292     20000
+weighted avg     0.5652    0.7518    0.6453     20000
+
+
+Confusion Matrix:
+[[15036     0]
+ [ 4964     0]]

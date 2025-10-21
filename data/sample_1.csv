@@ -1,0 +1,6 @@
+user_id,age,gender,bmi,daily_steps,sleep_hours,water_intake_l,calories_consumed,smoker,alcohol,resting_hr,systolic_bp,diastolic_bp,cholesterol,family_history
+1,25,0,22.5,8000,8,2.0,2200,0,0,70,120,80,180,0
+2,40,1,25.0,6500,7,1.8,2500,0,1,75,130,85,200,0
+3,30,0,20.0,10000,7.5,2.2,2000,0,0,65,115,75,170,0
+4,55,1,28.0,3000,5,1.5,2800,1,1,90,150,95,250,1
+5,60,1,35.0,2000,4,1.0,3500,1,1,110,180,110,320,1

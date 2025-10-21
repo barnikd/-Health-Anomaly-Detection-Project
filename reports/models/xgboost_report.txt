@@ -1,0 +1,20 @@
+Model: XGBClassifier
+Time: 2025-10-21T08:23:42.885128Z
+
+Accuracy: 0.5270
+ROC AUC: 0.4928
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.7481    0.5591    0.6399     15036
+           1     0.2434    0.4297    0.3108      4964
+
+    accuracy                         0.5270     20000
+   macro avg     0.4957    0.4944    0.4753     20000
+weighted avg     0.6228    0.5270    0.5582     20000
+
+
+Confusion Matrix:
+[[8406 6630]
+ [2831 2133]]

@@ -1,0 +1,6 @@
+Name,Age,Gender,Smoker,Alcohol,BMI,Blood_Pressure,Cholesterol,Heart_Rate,Family_History
+John Doe,50,Male,1,1,27.5,140/90,220,78,1
+Jane Smith,35,Female,0,0,22.0,120/80,180,72,0
+Robert Brown,65,Male,1,0,30.2,160/100,250,88,1
+Emily Davis,28,Female,0,1,19.8,110/70,150,65,0
+Michael Johnson,45,Male,0,0,25.5,130/85,200,75,0
